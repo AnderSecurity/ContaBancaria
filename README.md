@@ -14,3 +14,6 @@ Implementações geradas:
 
 ![image](https://github.com/AnderSecurity/ContaBancaria/assets/114704633/100e8661-bb6a-4161-9a86-830f1524ff87)
 
+Após a criação da classe Runner:
+
+![image](https://github.com/AnderSecurity/ContaBancaria/assets/114704633/9022fb37-d23b-4f4d-8653-0c32d6d5cd90)
